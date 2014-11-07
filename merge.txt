@@ -1,7 +1,7 @@
 line one j
-line two
+not a line at all
 line three
 these are in the branch
-line four
+this is definately not a line
 line five
 in mergerbranch
