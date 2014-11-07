@@ -1,7 +1,9 @@
+Line ZERO
 line one j
 line two
 line three
 these are in the branch
 line four
 line five
+This is a whole new line that has never been here before.... 
 in mergerbranch
